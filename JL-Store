@@ -1,0 +1,10 @@
+# JL-Store
+
+**Description**: JL-Store est une plateforme e-commerce qui permet aux utilisateurs de naviguer et d'acheter des produits en ligne. Le site comprend des fonctionnalités telles que l'authentification utilisateur, la gestion du panier, et un système de paiement sécurisé.
+
+**Technologies utilisées**:
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Base de données: MongoDB
+
+**Objectif**: Créer une expérience utilisateur fluide tout en intégrant des solutions sécurisées pour les transactions.
